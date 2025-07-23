@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bublab Privacy Policy</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      background-color: #fdfdfd;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #1976d2;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-size: 22px;
+      margin-top: 30px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 4px;
+    }
+    h3 {
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    p {
+      margin: 12px 0;
+    }
+    ul {
+      margin: 10px 0 10px 20px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    .container {
+      max-width: 960px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Bublab Privacy Policy</h1>
+
+    <section>
+      <h2>1. Overview</h2>
+      <p>Bublab (hereinafter referred to as “this product”) is a game product developed, operated, and managed by Bublab. We respect and protect users’ personal privacy. While providing services, we collect, use, store, and protect your personal data per this Privacy Policy.</p>
+      <p>Please read and understand this policy before using the product. Contact us at <strong>xjun9028@163.com</strong> if you have questions or complaints.</p>
+      <ul>
+        <li>How We Collect and Use Your Personal Data</li>
+        <li>Use of Cookies and Similar Technologies</li>
+        <li>Data Sharing and Disclosure</li>
+        <li>Data Handling with Third-Party Services</li>
+        <li>Data Storage and Security</li>
+        <li>Your Rights and Controls</li>
+        <li>Minors' Data</li>
+        <li>Global Data Transmission</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>2. How We Collect and Use Your Personal Data</h2>
+
+      <h3>2.1 Types of Personal Data</h3>
+      <ul>
+        <li><strong>Pre-activation:</strong> IP, MCC, language, OS version — to determine your region.</li>
+        <li><strong>Basic Info:</strong> Device ID, CPU, memory, OS — for stability and debugging.</li>
+        <li><strong>Game Progress:</strong> Levels, scores, settings, achievements — for save/load features.</li>
+        <li><strong>Service Quality:</strong> Clicks, ad views, game actions — for analytics.</li>
+        <li><strong>Non-personalized Ads:</strong> Used for frequency capping and anti-fraud.</li>
+      </ul>
+
+      <h3>2.2 Third-Party Sources</h3>
+      <p>Currently, we do not obtain your data from third parties. If this changes, we will notify and request consent.</p>
+
+      <h3>2.3 Permissions Required</h3>
+      <ul>
+        <li>Location (GPS)</li>
+        <li>Phone Status</li>
+        <li>Storage Access</li>
+        <li>Shortcut Installation</li>
+        <li>System Settings Modification</li>
+        <li>Google Play Account Access</li>
+        <li>Boot Permissions</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>3. Cookies and Similar Technologies</h2>
+      <p>We use cookies for login state, preferences, and performance. We do not upload cookies. You can clear or disable cookies as needed.</p>
+    </section>
+
+    <section>
+      <h2>4. Sharing, Transfer, Disclosure</h2>
+      <ul>
+        <li>With affiliated products</li>
+        <li>With service providers</li>
+        <li>For legal compliance</li>
+        <li>During company changes (e.g. merger)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>5. Data Processing via Third-Party Services</h2>
+      <p>Links and APIs (e.g. search suggestions) may pull your data. These are governed by their own privacy policies.</p>
+    </section>
+
+    <section>
+      <h2>6. Storage and Protection</h2>
+      <p>We encrypt and restrict access to your data. Logs are stored briefly. Some local data (e.g. cookies, bookmarks) can be manually deleted.</p>
+    </section>
+
+    <section>
+      <h2>7. Your Rights</h2>
+      <ul>
+        <li>Access / Edit your data</li>
+        <li>Withdraw consent</li>
+        <li>Refuse ads</li>
+        <li>Request deletion</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>8. Minors</h2>
+      <p>We do not process data of users under 16 without verified guardian consent. If found, we delete such data immediately.</p>
+    </section>
+
+    <section>
+      <h2>9. Contact Us</h2>
+      <p>Email: <strong>xjun9028@163.com</strong></p>
+    </section>
+
+    <section>
+      <h2>10. Policy Updates</h2>
+      <p>We may update this policy. Continued use means you accept the updated version.</p>
+    </section>
+
+    <section>
+      <h2>11. Global Data Transfer</h2>
+      <p>Your data may be transmitted across borders, including to Singapore, US, and China. We take steps to comply with GDPR Article 46 and 47.</p>
+    </section>
+
+    <p><strong>Last updated:</strong> May 24, 2025</p>
+  </div>
+</body>
+</html>

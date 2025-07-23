@@ -1,36 +1,134 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Bublab Games - Bubble Shooter Pop</title>
-  <link rel="stylesheet" href="css/style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bublab Games</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: "Helvetica Neue", sans-serif;
+      background: #f2f6fc;
+      color: #333;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 28px;
+      color: #4AB6FF;
+      margin-bottom: 40px;
+    }
+
+    .game-card {
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+      padding: 24px;
+      margin-bottom: 30px;
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+    }
+
+    .game-icon {
+      width: 60px;
+      height: 60px;
+      border-radius: 12px;
+      flex-shrink: 0;
+    }
+
+    .game-content {
+      flex: 1;
+    }
+
+    .game-content h2 {
+      margin: 0 0 8px;
+      font-size: 20px;
+      color: #4AB6FF;
+    }
+
+    .game-content p {
+      margin: 0 0 16px;
+      font-size: 15px;
+      color: #444;
+      line-height: 1.6;
+    }
+
+    .store-buttons img {
+      height: 42px;
+      margin-right: 10px;
+      transition: transform 0.2s;
+    }
+
+    .store-buttons img:hover {
+      transform: scale(1.05);
+    }
+
+    footer {
+      text-align: center;
+      font-size: 13px;
+      color: #999;
+      padding-top: 30px;
+    }
+
+    @media (max-width: 600px) {
+      .game-card {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .game-icon {
+        width: 48px;
+        height: 48px;
+      }
+
+      .store-buttons img {
+        height: 36px;
+      }
+    }
+  </style>
 </head>
 <body>
+
   <div class="container">
-    <div class="left">
-      <h1><span class="highlight">Bublab</span> <span class="bubble-icon">●</span> Games</h1>
-      <h2>Bubble Shooter Pop</h2>
-      <p>
-        Ready to pop into the most exciting bubble adventure?<br />
-        Bubble Shooter Pop is a fun, addictive bubble-shooting game that’s easy
-        to pick up and perfect for players of all ages. Step into a vibrant
-        world of colorful bubbles — aim with precision, match the colors, clear
-        the board, unlock new levels, and chase high scores!
-      </p>
-      <div class="buttons">
-        <a href="#" class="btn blue">Google Play</a>
-        <a href="#" class="btn orange">App Store</a>
+    <h1>Aimilab Games</h1>
+
+    <div class="game-card">
+      <img src="./images/solitaire-icon.png" alt="Solitaire Icon" class="game-icon">
+      <div class="game-content">
+        <h2>Solitaire-2025</h2>
+        <p>
+Classic card game play has been upgraded to test your patience and strategy! Suitable for all ages, it's relaxing and challenging at the same time.</p>
+        <div class="store-buttons">
+          <img src="./images/googleplay.png" alt="Google Play">
+          <img src="./images/appstore.png" alt="App Store">
+        </div>
       </div>
     </div>
-    <div class="right">
-      <img src="screenshot1.png" alt="Gameplay Screenshot 1" class="screenshot" />
-      <img src="screenshot2.png" alt="Gameplay Screenshot 2" class="screenshot" />
+
+    <div class="game-card">
+      <img src="./images/bubble-icon.png" alt="Bubble Shooter Icon" class="game-icon">
+      <div class="game-content">
+        <h2>Bubble Shooter Pop</h2>
+        <p>A bubble popping game that's impossible to put down! Colorful and fast-paced, enjoy the satisfying feeling of popping bubbles with your fingers!</p>
+        <div class="store-buttons">
+          <img src="./images/googleplay.png" alt="Google Play">
+          <img src="./images/appstore.png" alt="App Store">
+        </div>
+      </div>
     </div>
+
+    <footer>
+2025 ©Bublab.  Contact: xjun9028@163.com    <a href="/docs/bublab_privacy_policy.html">Privacy Policy</a>
+</footer>
   </div>
-  <footer>
-    <p>2025 © Bublab. Contact: support@inosuke.space <a href="#">Privacy Policy</a></p>
-  </footer>
-  <script src="js/script.js"></script>
+
 </body>
 </html>
