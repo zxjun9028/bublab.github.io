@@ -1550,3 +1550,5 @@ myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 # chartboost 20260112
 chartboost.com, 691fc4e2c5d67af3a237eac4, DIRECT
 loopme.com, 17178, DIRECT, 6c8d5f95897a5a3b
+
+vungle.com,6966f40b0199fcad05542d36,DIRECT,c107d686becd2d77
