@@ -1,3 +1,4 @@
+facebook.com, 1035603698930706, DIRECT, c3e20eee3f780d68
 # admob 20251128
 google.com, pub-8132571372398763, DIRECT, f08c47fec0942fa0
 google.com, pub-7679983672896947, DIRECT, f08c47fec0942fa0
